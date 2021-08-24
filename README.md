@@ -6,7 +6,7 @@ It will help to pin down what is wrong with Comcast's customer service.
 
 Data Dictionary
 
-Ticket #: Ticket number assigned to each complaint
+Ticket #: Ticket number assigned to each complaint <br>
 Customer Complaint: Description of complaint
 Date: Date of complaint
 Time: Time of complaint
