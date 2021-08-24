@@ -7,15 +7,15 @@ It will help to pin down what is wrong with Comcast's customer service.
 Data Dictionary
 
 Ticket #: Ticket number assigned to each complaint <br>
-Customer Complaint: Description of complaint
-Date: Date of complaint
-Time: Time of complaint
-Received Via: Mode of communication of the complaint
-City: Customer city
-State: Customer state
-Zipcode: Customer zip
-Status: Status of complaint
-Filing on behalf of someone
-Analysis Task
+Customer Complaint: Description of complaint<br>
+Date: Date of complaint<br>
+Time: Time of complaint<br>
+Received Via: Mode of communication of the complaint<br>
+City: Customer city<br>
+State: Customer state<br>
+Zipcode: Customer zip<br>
+Status: Status of complaint<br>
+Filing on behalf of someone<br>
+Analysis Task<br>
 
 - Provide the percentage of complaints resolved till date, which were received through the Internet and customer care calls.
